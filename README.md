@@ -1,1 +1,2 @@
 # squashing-test
+- add content
